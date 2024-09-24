@@ -56,18 +56,6 @@ The backgrounds are typically more minimalistic but still carry enough detail to
 
 Eerie Atmosphere: The use of mist, dark forests, or ruins in the environment suggests mystery and horror but is kept simple enough to keep the focus on the characters.
 
-## ANIMATIONS
-
-### CALM AND WALKING
-
-There should be 8 frames for the normal walking cycle. This should happen for each leg:
-
-![[Pasted image 20240922150921.png]]
-
-### RUNNING AND SCREAMING
-
-There should be 8 frames for running and screaming, same as for walking.
-
 # TECHNICAL GUIDELINES
 
 ## IMAGE SIZES
@@ -92,35 +80,49 @@ Export in both .psd and .png
 
 An average American teenager dressed in street clothes.
 
-![[mark copy.png]]
+![image](mark.png)
 
 ### SKELLY ARM
 
 A skeleton arm that bursts out of the ground.
 
-![[skeleton_arm_size1.png]]
+![image](skeleton_arm.png)
 
 ## ANIMATIONS
 
 ### MAINSTREAM MARK
 
-- Calm and walking
-![[Pasted image 20240924154806.png]]
+#### HAPPY STRUT
+![image](./strut_1.gif)
+![image](./strut_2.gif)
+
+
+#### SLOW TURN
+Change direction while walking.
+
+![image](./walk_turn.gif)
+
 
 #### RUNNING AND SCREAMING
+Arms are up and flailing.
 
-- Arms are up and flailing.
-![[Screenshot 2024-09-24 at 2.58.58 PM.png]]
+![image](rs_1.gif)
+![image](rs_2.gif)
+![image](rs_3.gif)
 
-- Change direction while walking (slow turn)
-- Change direction while running (quick turn)
+
+#### QUICK TURN
+Change direction while running.
+
+![image](run_turn.gif)
 
 ### SKELLY ARM
 
 - Animation - Ground Pop
 	- The arm should start out buried under a pile of dirt, and pop out of the ground.
- ![[Pasted image 20240923011238.png]]
-![[Pasted image 20240923011248.png]]
+
+![image](zombie_dead.gif)
+
 
 ## ENVIRONMENTS
 
@@ -128,29 +130,52 @@ A skeleton arm that bursts out of the ground.
 
 Should look like the interior of a mausoleum.
 
+![image](indoor_a.png)
+
+
 ### NORMAL FLOOR TILE
 
-- Open to change angle / perspective.
+Open to change angle / perspective.
+s
+![image](tile_h.png)
+
 
 ### ENTER/EXIT DOOR
-
-![[door_a.png]]
+![image](door_a.png)
 
 ## UI
+
+### FLOATNG SCREAM
+
+![image](vibrating-ball.png)
 
 ### SIDEBAR
 
 ### ICONS
 
-#### SCREAM
+#### SCREAM COUNTER
+
+![image](shouting.png)
 
 #### RECALL ICON
+![image](rotation.png)
 
-![[anticlockwise-rotation 1.png]]
 
 #### SKELLY ARM ICON
+![image](skeleton_arm-chip.png)
 
-![[skeleton_arm-chip.png]]
+
+| milestone | due   |
+| --------- | ----- |
+| 1         | 10/16 |
+| 2         | 10/31 |
+| 3         |       |
+| 4         |       |
+| 5         |       |
+| 6         |       |
+| 7         |       |
+
+
 
 # DELIVERABLES
 
@@ -189,17 +214,3 @@ Should look like the interior of a mausoleum.
 |User Interface - Skelly Arm|Icon|png and psd|6|
 |User Interface - Undo Button|Icon|png and psd|6|
 
-
-
-# MILESTONE DATES
-
-Dates/Times are in China Standard Time. Central Standard Time (Austin) would be ___
-
-| #   | First Draft Due |
-| --- | --------------- |
-| 1   | 10/             |
-| 2   |                 |
-| 3   |                 |
-| 4   |                 |
-| 5   |                 |
-| 6   |                 |
