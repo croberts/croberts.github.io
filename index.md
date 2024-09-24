@@ -154,16 +154,42 @@ Should look like the interior of a mausoleum.
 
 # DELIVERABLES
 
-```dataview
-TABLE WITHOUT ID
-	subject,
-	type,
-	format,
-	priority as milestone
-FROM "Nausoleum/Docs/Art/Deliverables Data"
-sort priority asc, type asc, subject asc
+|subject|type|format|milestone|
+|---|---|---|---|
+|Door|Concept Art|png|1|
+|Interior Background|Concept Art|png|1|
+|Mainstream Mark|Concept Art|png|1|
+|Skelly Arm|Concept Art|png|1|
+|Tile|Concept Art|png|1|
+|Scream Icon|Icon|png and psd|1|
+|Mainstream Mark|Character Turnaround|png|2|
+|Skelly Arm|Character Turnaround|png|2|
+|Door|Rough Layout & Composition|png|2|
+|Interior Background|Rough Layout & Composition|png|2|
+|Tile|Rough Layout & Composition|png|2|
+|Door|Clean Line Art|png|3|
+|Interior Background|Clean Line Art|png|3|
+|Mainstream Mark|Clean Line Art|png|3|
+|Skelly Arm|Clean Line Art|png|3|
+|Tile|Clean Line Art|png|3|
+|Door|Coloring and Shading|png and psd|4|
+|Interior Background|Coloring and Shading|png and psd|4|
+|Mainstream Mark|Coloring and Shading|png and psd|4|
+|Skelly Arm|Coloring and Shading|png and psd|4|
+|Tile|Coloring and Shading|png and psd|4|
+|Mainstream Mark|Animation - Calm and Walking|png sprite sheet|5|
+|Mainstream Mark|Animation - Change direction running|png sprite sheet|5|
+|Mainstream Mark|Animation - Change direction walking|png sprite sheet|5|
+|Skelly Arm|Animation - Ground Pop|png sprite sheet|5|
+|Skelly Arm|Animation - OK Sign|png sprite sheet|5|
+|Mainstream Mark|Animation - Running and Screaming|png sprite sheet|5|
+|Skelly Arm|Animation - Thumbs Up|png sprite sheet|5|
+|Mainstream Mark|Animation - Vomit|png sprite sheet|5|
+|User Interface - Sidebar|Concept Art|png and psd|6|
+|User Interface - Skelly Arm|Icon|png and psd|6|
+|User Interface - Undo Button|Icon|png and psd|6|
 
-```
+
 
 # MILESTONE DATES
 
