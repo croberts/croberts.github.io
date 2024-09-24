@@ -136,7 +136,6 @@ Should look like the interior of a mausoleum.
 ### NORMAL FLOOR TILE
 
 Open to change angle / perspective.
-s
 ![image](tile_h.png)
 
 
