@@ -5,9 +5,9 @@ share: true
   
 # WHAT IS THIS GAME ABOUT?  
   
-[Nausoleum](Nausoleum/Docs/Design/Writing/Nausoleum.md) is a haunted house simulator about entertaining the [[Guests|Guests]] of a haunted house. Players are introduced as its new [[The Curator|The Curator]].  
+Nausoleum is a haunted house simulator about entertaining the Guests of a haunted house. Players are introduced as its new The Curator.  
   
-Players recruit [[Undertakers|Undertakers]] to entertain Guests, who enthusiastically encourage them to experience a variety of strong emotions. Entertaining Guests is a delightful puzzle, as Guests have their own sensibilities, and naturally avoid strong emotions. The resulting noises and bodily fluids are captured and used as resources to upgrade Undertakers, the Nausoleum, and Curator abilities.  
+Players recruit Undertakers to entertain Guests, who enthusiastically encourage them to experience a variety of strong emotions. Entertaining Guests is a delightful puzzle, as Guests have their own sensibilities, and naturally avoid strong emotions. The resulting noises and bodily fluids are captured and used as resources to upgrade Undertakers, the Nausoleum, and Curator abilities.  
   
 # WINNING AND LOSING  
   
@@ -15,12 +15,12 @@ Players recruit [[Undertakers|Undertakers]] to entertain Guests, who enthusiasti
   
 The player has two long-term goals:  
   
-1. Maximize the [[Nausoleum/Docs/Design/Curator/Prestige|Prestige]] of the Nausoleum  
-2. Choose one of several [[Patrons|Patrons]] of the house to align with and fulfill their wishes  
+1. Maximize the Prestige of the Nausoleum  
+2. Choose one of several Patrons of the house to align with and fulfill their wishes  
   
 ## SHORT-TERM  
   
-Levels of the game are divided into floors. Each floor corresponds with one of the [[Puzzles|Puzzles]] and at least one of the [[Player Challenges|Player Challenges]]. Winning or losing a specific floor occurs by increasing or decreasing [[Nausoleum/Docs/Design/Guests/Guest Satisfaction|Guest Satisfaction]] above or below a certain threshold given certain constraints.  
+Levels of the game are divided into floors. Each floor corresponds with one of the Puzzles and at least one of the Player Challenges. Winning or losing a specific floor occurs by increasing or decreasing Guest Satisfaction above or below a certain threshold given certain constraints.  
   
 # GAMEPLAY  
   
