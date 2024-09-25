@@ -19,8 +19,8 @@ share: true
   
 # GAME DOCUMENTATION  
   
+* [[Nausoleum Overview|Nausoleum Overview]]  
+  
 ## SCREENSHOTS  
   
 ## GAME CONCEPTS  
-  
-* [Nausoleum Overview](Nausoleum%20Overview.md)  
