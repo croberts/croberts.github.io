@@ -36,7 +36,10 @@ Undertakers are monsters you hire to work at the Nausoleum. The player has a lis
 
 ## GUESTS
 
-Guests are people from the outside world who have decided to enter the Nausoleum. Most of them are human.
+Guests are people from the outside world who have decided to enter the Nausoleum. Most of them are human.![](Attachments/project_1_en-20240925095903554.webp)![](Attachments/project_1_en-20240925095852168.webp)
+![](Attachments/project_1_en-20240925095835766.webp)
+![](Attachments/project_1_en-20240925095819901.webp)
+
 
 # STYLE GUIDELINES
 
@@ -94,7 +97,7 @@ Eerie Atmosphere: The use of mist, dark forests, or ruins in the environment sug
 
 ## FORMAT
 
-Export in both .psd and .png
+Export in both `.psd` (or the equivalent project file if you don't use photoshop) and `.png`
 
 # FIRST LEVEL REQUIREMENTS
 
@@ -137,8 +140,10 @@ Arms are up and flailing.
 ![](Attachments/rs_2.gif)
 
 ![](Attachments/rs_3.gif)
+![](Attachments/project_1_en-20240925100002501.webp)
 
-#### QUICK TURN
+![](Attachments/project_1_en-20240925100009137.webp)
+#### ![](Attachments/project_1_en-20240925100017127.webp)![](Attachments/project_1_en-20240925100022674.webp)QUICK TURN
 
 Change direction while running.
 
@@ -148,7 +153,7 @@ Change direction while running.
 
 #### ANIMATION - GROUND POP
 
-- The arm should start out buried under a pile of dirt, and pop out of the ground.
+The arm should start out buried under a pile of dirt, and pop out of the ground.
 
 ![](Attachments/zombie_dead.gif)
 
@@ -186,6 +191,8 @@ The floor is currently 9 (width) x 3 (height). I would like to make this taller 
 
 #### SCREAM
 
+![](Attachments/project_1_en-20240925095521497.webp)
+
 #### RECALL ICON
 
 ![](Attachments/rotation.png)
@@ -208,35 +215,35 @@ The floor is currently 9 (width) x 3 (height). I would like to make this taller 
 
 # DELIVERABLES
 
-|subject|type|format|milestone|
-|---|---|---|---|
-|Door|Concept Art|png|1|
-|Interior Background|Concept Art|png|1|
-|Mainstream Mark|Concept Art|png|1|
-|Skelly Arm|Concept Art|png|1|
-|Tile|Concept Art|png|1|
-|Scream Icon|Icon|png and psd|1|
-|Mainstream Mark|Character Turnaround|png|2|
-|Skelly Arm|Character Turnaround|png|2|
-|Door|Rough Layout & Composition|png|2|
-|Interior Background|Rough Layout & Composition|png|2|
-|Tile|Rough Layout & Composition|png|2|
-|Door|Clean Line Art|png|3|
-|Interior Background|Clean Line Art|png|3|
-|Mainstream Mark|Clean Line Art|png|3|
-|Skelly Arm|Clean Line Art|png|3|
-|Tile|Clean Line Art|png|3|
-|Door|Coloring and Shading|png and psd|4|
-|Interior Background|Coloring and Shading|png and psd|4|
-|Mainstream Mark|Coloring and Shading|png and psd|4|
-|Skelly Arm|Coloring and Shading|png and psd|4|
-|Tile|Coloring and Shading|png and psd|4|
-|Mainstream Mark - Calm and Walking|Animation|png sprite sheet|5|
-|Mainstream Mark - Change direction running|Animation|png sprite sheet|5|
-|Mainstream Mark - Change direction walking|Animation|png sprite sheet|5|
-|Mainstream Mark - Running and Screaming|Animation|png sprite sheet|5|
-|Skelly Arm - Ground Pop|Animation|png sprite sheet|5|
-|Skelly Arm - Thumbs Up|Animation|png sprite sheet|5|
-|User Interface - Sidebar|Concept Art|png and psd|6|
-|User Interface - Skelly Arm|Icon|png and psd|6|
-|User Interface - Undo Button|Icon|png and psd|6|
+| subject                                    | type                       | format           | milestone |
+| ------------------------------------------ | -------------------------- | ---------------- | --------- |
+| Door                                       | Concept Art                | png              | 1         |
+| Interior Background                        | Concept Art                | png              | 1         |
+| Mainstream Mark                            | Concept Art                | png              | 1         |
+| Skelly Arm                                 | Concept Art                | png              | 1         |
+| Tile                                       | Concept Art                | png              | 1         |
+| Scream Icon                                | Icon                       | png and psd      | 1         |
+| Mainstream Mark                            | Character Turnaround       | png              | 2         |
+| Skelly Arm                                 | Character Turnaround       | png              | 2         |
+| Door                                       | Rough Layout & Composition | png              | 2         |
+| Interior Background                        | Rough Layout & Composition | png              | 2         |
+| Tile                                       | Rough Layout & Composition | png              | 2         |
+| Door                                       | Clean Line Art             | png              | 3         |
+| Interior Background                        | Clean Line Art             | png              | 3         |
+| Mainstream Mark                            | Clean Line Art             | png              | 3         |
+| Skelly Arm                                 | Clean Line Art             | png              | 3         |
+| Tile                                       | Clean Line Art             | png              | 3         |
+| Door                                       | Coloring and Shading       | png and psd      | 4         |
+| Interior Background                        | Coloring and Shading       | png and psd      | 4         |
+| Mainstream Mark                            | Coloring and Shading       | png and psd      | 4         |
+| Skelly Arm                                 | Coloring and Shading       | png and psd      | 4         |
+| Tile                                       | Coloring and Shading       | png and psd      | 4         |
+| Mainstream Mark - Happy strut              | Animation                  | png sprite sheet | 5         |
+| Mainstream Mark - Change direction running | Animation                  | png sprite sheet | 5         |
+| Mainstream Mark - Change direction walking | Animation                  | png sprite sheet | 5         |
+| Mainstream Mark - Running and screaming    | Animation                  | png sprite sheet | 5         |
+| Skelly Arm - Ground Pop                    | Animation                  | png sprite sheet | 5         |
+| Skelly Arm - Thumbs Up                     | Animation                  | png sprite sheet | 5         |
+| User Interface - Sidebar                   | Concept Art                | png and psd      | 6         |
+| User Interface - Skelly Arm                | Icon                       | png and psd      | 6         |
+| User Interface - Undo Button               | Icon                       | png and psd      | 6         |
