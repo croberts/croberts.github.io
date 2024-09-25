@@ -40,6 +40,10 @@ Guests are people from the outside world who have decided to enter the Nausoleum
 
 # STYLE GUIDELINES
 
+## AESTHETIC
+
+![](bj.gif)
+
 ## REALISTIC PROPORTIONS
 
 Every guest's body, limbs, and facial features follow natural human proportions. All characters should look grounded, as if they could exist in the real world, even within a stylized context.
@@ -142,7 +146,7 @@ Change direction while running.
 
 ### SKELLY ARM
 
-- Animation - Ground Pop
+#### ANIMATION - GROUND POP
 
 - The arm should start out buried under a pile of dirt, and pop out of the ground.
 
@@ -154,9 +158,21 @@ Change direction while running.
 
 Should look like the interior of a mausoleum.
 
+![](project_1_en-20240925092418703.webp)
+
+![](project_1_en-20240925092426862.webp)
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Woodlawn_Cemetary_-_Mausoleum_Interior.jpg/1280px-Woodlawn_Cemetary_-_Mausoleum_Interior.jpg)
+
+![](https://i.pinimg.com/564x/40/38/a7/4038a77e144420ac6403d5e589877845.jpg)
+
 ### NORMAL FLOOR TILE
 
-- Open to change angle / perspective.
+The floor is currently 9 (width) x 3 (height). I would like to make this taller -- 5 height, which means the tiles might need to be smaller or of a different perspective.
+
+![](project_1_en-20240925092932621.webp).
+
+![](project_1_en-20240925092453205.webp)
 
 ### ENTER/EXIT DOOR
 
