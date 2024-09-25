@@ -1,6 +1,4 @@
 theme: jekyll-theme-dinky
 title: nausoleum
-show_downloads: false
-pc_download_url: null
 url: https://croberts.github.io/
 permalink: /:path/:basename.html
