@@ -1,3 +1,7 @@
+---
+share: true
+---
+
 # ABOUT THE GAME
 
 **Nausoleum** (nausea + mausoleum) is a haunted house simulator. It is about hiring **Undertakers** (monsters) to entertain the **Guests** of a haunted house.
@@ -60,13 +64,19 @@ Eerie Atmosphere: The use of mist, dark forests, or ruins in the environment sug
 
 ## IMAGE SIZES
 
-|              | width | height |
+| | width | height |
+
 | ------------ | ----- | ------ |
-| viewport     | 1920  | 1080   |
-| environment  | 1920  | 1080   |
-| UI - sidebar | 256   | 980    |
-| UI - icons   | 50    | 50     |
-| guests       | 300   | 900    |
+
+| viewport | 1920 | 1080 |
+
+| environment | 1920 | 1080 |
+
+| UI - sidebar | 256 | 980 |
+
+| UI - icons | 50 | 50 |
+
+| guests | 300 | 900 |
 
 ## FORMAT
 
@@ -86,43 +96,47 @@ An average American teenager dressed in street clothes.
 
 A skeleton arm that bursts out of the ground.
 
-![image](skeleton_arm.png)
+  ![/Users/llewellyn/code/croberts.github.io/skeleton_arm.png](file:///Users/llewellyn/code/croberts.github.io/skeleton_arm.png)
 
 ## ANIMATIONS
 
 ### MAINSTREAM MARK
 
 #### HAPPY STRUT
-![image](./strut_1.gif)
-![image](./strut_2.gif)
 
+  ![/Users/llewellyn/code/croberts.github.io/strut_1.gif](file:///Users/llewellyn/code/croberts.github.io/strut_1.gif)
+
+  ![/Users/llewellyn/code/croberts.github.io/strut_2.gif](file:///Users/llewellyn/code/croberts.github.io/strut_2.gif)
 
 #### SLOW TURN
+
 Change direction while walking.
 
-![image](./walk_turn.gif)
-
+![/Users/llewellyn/code/croberts.github.io/walk_turn.gif](file:///Users/llewellyn/code/croberts.github.io/walk_turn.gif)
 
 #### RUNNING AND SCREAMING
+
 Arms are up and flailing.
 
-![image](rs_1.gif)
-![image](rs_2.gif)
-![image](rs_3.gif)
+![/Users/llewellyn/code/croberts.github.io/rs_1.gif](file:///Users/llewellyn/code/croberts.github.io/rs_1.gif)
 
+  ![/Users/llewellyn/code/croberts.github.io/rs_2.gif](file:///Users/llewellyn/code/croberts.github.io/rs_2.gif)
+
+![/Users/llewellyn/code/croberts.github.io/rs_3.gif](file:///Users/llewellyn/code/croberts.github.io/rs_3.gif)
 
 #### QUICK TURN
+
 Change direction while running.
 
-![image](run_turn.gif)
+![/Users/llewellyn/code/croberts.github.io/run_turn.gif](file:///Users/llewellyn/code/croberts.github.io/run_turn.gif)
 
 ### SKELLY ARM
 
 - Animation - Ground Pop
-	- The arm should start out buried under a pile of dirt, and pop out of the ground.
 
-![image](zombie_dead.gif)
+- The arm should start out buried under a pile of dirt, and pop out of the ground.
 
+  ![/Users/llewellyn/code/croberts.github.io/zombie_dead.gif](file:///Users/llewellyn/code/croberts.github.io/zombie_dead.gif)
 
 ## ENVIRONMENTS
 
@@ -130,39 +144,31 @@ Change direction while running.
 
 Should look like the interior of a mausoleum.
 
-![image](indoor_a.png)
-
-
 ### NORMAL FLOOR TILE
 
-Open to change angle / perspective.
-![image](tile_h.png)
-
+- Open to change angle / perspective.
 
 ### ENTER/EXIT DOOR
-![image](door_a.png)
+
+  ![/Users/llewellyn/code/croberts.github.io/door_a.png](file:///Users/llewellyn/code/croberts.github.io/door_a.png)
 
 ## UI
-
-### FLOATNG SCREAM
-
-![image](vibrating-ball.png)
 
 ### SIDEBAR
 
 ### ICONS
 
-#### SCREAM COUNTER
-
-![image](shouting.png)
+#### SCREAM
 
 #### RECALL ICON
-![image](rotation.png)
 
+  ![/Users/llewellyn/code/croberts.github.io/rotation.png](file:///Users/llewellyn/code/croberts.github.io/rotation.png)
 
 #### SKELLY ARM ICON
-![image](skeleton_arm-chip.png)
 
+![/Users/llewellyn/code/croberts.github.io/skeleton_arm-chip.png](file:///Users/llewellyn/code/croberts.github.io/skeleton_arm-chip.png)
+
+# MILESTONE DATES
 
 | milestone | due   |
 | --------- | ----- |
@@ -174,42 +180,13 @@ Open to change angle / perspective.
 | 6         |       |
 | 7         |       |
 
+```dataview
+TABLE WITHOUT ID
+	subject,
+	type,
+	format,
+	priority as milestone
+FROM "Nausoleum/Docs/Art/Deliverables Data"
+sort priority asc, type asc, subject asc
 
-
-# DELIVERABLES
-
-|subject|type|format|milestone|
-|---|---|---|---|
-|Door|Concept Art|png|1|
-|Interior Background|Concept Art|png|1|
-|Mainstream Mark|Concept Art|png|1|
-|Skelly Arm|Concept Art|png|1|
-|Tile|Concept Art|png|1|
-|Scream Icon|Icon|png and psd|1|
-|Mainstream Mark|Character Turnaround|png|2|
-|Skelly Arm|Character Turnaround|png|2|
-|Door|Rough Layout & Composition|png|2|
-|Interior Background|Rough Layout & Composition|png|2|
-|Tile|Rough Layout & Composition|png|2|
-|Door|Clean Line Art|png|3|
-|Interior Background|Clean Line Art|png|3|
-|Mainstream Mark|Clean Line Art|png|3|
-|Skelly Arm|Clean Line Art|png|3|
-|Tile|Clean Line Art|png|3|
-|Door|Coloring and Shading|png and psd|4|
-|Interior Background|Coloring and Shading|png and psd|4|
-|Mainstream Mark|Coloring and Shading|png and psd|4|
-|Skelly Arm|Coloring and Shading|png and psd|4|
-|Tile|Coloring and Shading|png and psd|4|
-|Mainstream Mark|Animation - Calm and Walking|png sprite sheet|5|
-|Mainstream Mark|Animation - Change direction running|png sprite sheet|5|
-|Mainstream Mark|Animation - Change direction walking|png sprite sheet|5|
-|Skelly Arm|Animation - Ground Pop|png sprite sheet|5|
-|Skelly Arm|Animation - OK Sign|png sprite sheet|5|
-|Mainstream Mark|Animation - Running and Screaming|png sprite sheet|5|
-|Skelly Arm|Animation - Thumbs Up|png sprite sheet|5|
-|Mainstream Mark|Animation - Vomit|png sprite sheet|5|
-|User Interface - Sidebar|Concept Art|png and psd|6|
-|User Interface - Skelly Arm|Icon|png and psd|6|
-|User Interface - Undo Button|Icon|png and psd|6|
-
+```
