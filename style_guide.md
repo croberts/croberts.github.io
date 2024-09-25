@@ -81,13 +81,13 @@ Eerie Atmosphere: The use of mist, dark forests, or ruins in the environment sug
   
 ## IMAGE SIZES  
   
-| | width | height |  
+| item         | width | height |  
 | ------------ | ----- | ------ |  
-| viewport | 1920 | 1080 |  
-| environment | 1920 | 1080 |  
-| UI - sidebar | 256 | 980 |  
-| UI - icons | 50 | 50 |  
-| guests | 300 | 900 |  
+| viewport     | 1920  | 1080   |  
+| environment  | 1920  | 1080   |  
+| UI - sidebar | 256   | 980    |  
+| UI - icons   | 50    | 50     |  
+| guests       | 300   | 900    |  
   
 ## FORMAT  
   
