@@ -2,6 +2,12 @@
 share: true
 ---
 
-[First Project - English](project_1_en)
+# ENGLISH
 
-[First Project - Chinese](project_1_cn)
+[Style Guide](style_guide)
+
+[First Project](project_1_en)
+
+# CHINESE
+
+TODO
