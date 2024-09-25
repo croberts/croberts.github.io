@@ -3,13 +3,9 @@ share: true
 layout: default
 ---
 
-# ABOUT THE GAME
+# INSPIRATION
 
-**Nausoleum** (nausea + mausoleum) is a haunted house simulator. It is about hiring **Undertakers** (monsters) to entertain the **Guests** of a haunted house.
-
-## INSPIRATION
-
-It is inspired by the real-life [Winchester Mystery House](https://winchestermysteryhouse.com)
+The main inspiration for the game is the real-life [Winchester Mystery House](https://winchestermysteryhouse.com)
 
 ![](Attachments/winchester-front-of-house.jpg)
 
@@ -17,7 +13,7 @@ It is inspired by the real-life [Winchester Mystery House](https://winchestermys
 
 > The belief that Winchester built her house in its strange, maze-like manner to confuse and keep spirits from harming her and that her sanity was questionable started in the mid-1890s and has grown in scale since her death. The doors and windows that open to nothing, the unusually shallow stairs, the stairs that end in a ceiling, interior barred windows and trap doors in the floor are used to confirm Winchester's spirituality and poor state of mind.
 
-## UNDERTAKERS
+# UNDERTAKERS
 
 Undertakers are monsters you hire to work at the Nausoleum. The player has a list of undertakers on the left side of the screen. Undertakers are drag-and-drop, and come to life on drop. Most of them are not human, but some form of monster.
 
@@ -29,7 +25,7 @@ Undertakers are monsters you hire to work at the Nausoleum. The player has a lis
 
 ![](Attachments/therewolf.png)
 
-## GUESTS
+# GUESTS
 
 Guests are people from the outside world who have decided to enter the Nausoleum. Most of them are human.
 
