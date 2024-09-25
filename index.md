@@ -11,16 +11,18 @@ share: true
   
 ## ENGLISH  
   
-* [Style Guide](style_guide)  
+* [Style Guide](./style_guide.md#) (WORK IN PROGRESS)  
   
-* [Project 1 - October 2024](project_1_en)  
+* [Project 1 - October 2024](./project_1_en.md#) (WORK IN PROGRESS)  
   
 ## CHINESE  
+  
+* (WORK IN PROGRESS)  
   
 # GAME DOCUMENTATION  
   
 ## SCREENSHOTS  
   
-## GAME CONCEPTS  
+screenshots  
   
-* [Nausoleum Overview](Nausoleum%20Overview.md)  
+## GAME CONCEPTS  
