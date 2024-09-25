@@ -662,10 +662,6 @@ a {
   font-weight: 500;
 }
 
-header {
-  min-width: 100%;
-}
-
 p {
   display: inline-block;
   max-width: 100%;
