@@ -3,4 +3,4 @@ title: nausoleum
 show_downloads: false
 pc_download_url: null
 url: https://croberts.github.io/
-permalink: /:path/:basename.md
+permalink: /:path/:basename:output_ext
