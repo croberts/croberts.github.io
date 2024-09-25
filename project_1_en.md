@@ -1,13 +1,7 @@
 ---
 share: true
-title: Project 1, English
+layout: default
 ---
-
-# ---WARNING---
-
-**This is not finished yet.**
-
-Last updated: September 25, 2024
 
 # FIRST LEVEL REQUIREMENTS
 
