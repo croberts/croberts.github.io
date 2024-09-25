@@ -1,12 +1,7 @@
 ---
 share: true
+layout: default
 ---
-
-# ---WARNING---
-
-**This is not finished yet.**
-
-Last updated: September 25, 2024
 
 # ABOUT THE GAME
 
@@ -36,7 +31,9 @@ Undertakers are monsters you hire to work at the Nausoleum. The player has a lis
 
 ## GUESTS
 
-Guests are people from the outside world who have decided to enter the Nausoleum. Most of them are human.![](Attachments/project_1_en-20240925095903554.webp)![](Attachments/project_1_en-20240925095852168.webp)
+Guests are people from the outside world who have decided to enter the Nausoleum. Most of them are human.
+
+![](Attachments/project_1_en-20240925095903554.webp)![](Attachments/project_1_en-20240925095852168.webp)
 
 ![](Attachments/project_1_en-20240925095835766.webp)
 
