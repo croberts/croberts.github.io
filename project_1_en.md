@@ -16,7 +16,7 @@ Last updated: September 25, 2024
 
 It is inspired by the real-life [Winchester Mystery House](https://winchestermysteryhouse.com)
 
-![](winchester-front-of-house.jpg)
+![](Attachments/winchester-front-of-house.jpg)
 
 > Beginning around 1895, Winchester started appearing in newspapers. The articles in these local papers were filled with speculation about Winchester and the ongoing construction of her San Jose home. Her lack of interaction with neighbors and the known fact that her money came from the firearms industry fed into a superstitious narrative, despite large, ornate homes being commonly built by the wealthy. The newspapers declared that the reason that the construction was ongoing was that Winchester feared she would have bad luck if the construction would stop. This theory eventually grew into stories that she believed she would die if construction stopped.
 
@@ -26,7 +26,7 @@ It is inspired by the real-life [Winchester Mystery House](https://winchestermys
 
 Undertakers are monsters you hire to work at the Nausoleum. The player has a list of undertakers on the left side of the screen. Undertakers are drag-and-drop, and come to life on drop. Most of them are not human, but some form of monster.
 
-![](skelly_arm.png)
+![](Attachments/skelly_arm.png)
 
 ![](Attachments/SparklyVampire.png)
 
@@ -42,7 +42,7 @@ Guests are people from the outside world who have decided to enter the Nausoleum
 
 ## AESTHETIC
 
-![](bj.gif)
+![](Attachments/bj.gif)
 
 ## REALISTIC PROPORTIONS
 
@@ -158,21 +158,21 @@ Change direction while running.
 
 Should look like the interior of a mausoleum.
 
-![](project_1_en-20240925092418703.webp)
+![](Attachments/project_1_en-20240925092418703.webp)
 
-![](project_1_en-20240925092426862.webp)
+![](Attachments/project_1_en-20240925092426862.webp)
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Woodlawn_Cemetary_-_Mausoleum_Interior.jpg/1280px-Woodlawn_Cemetary_-_Mausoleum_Interior.jpg)
+![](Attachments/project_1_en-20240925094607016.webp)
 
-![](https://i.pinimg.com/564x/40/38/a7/4038a77e144420ac6403d5e589877845.jpg)
+![](Attachments/project_1_en-20240925094618316.webp)
 
 ### NORMAL FLOOR TILE
 
 The floor is currently 9 (width) x 3 (height). I would like to make this taller -- 5 height, which means the tiles might need to be smaller or of a different perspective.
 
-![](project_1_en-20240925092932621.webp).
+![](Attachments/project_1_en-20240925092932621.webp).
 
-![](project_1_en-20240925092453205.webp)
+![](Attachments/project_1_en-20240925092453205.webp)
 
 ### ENTER/EXIT DOOR
 
