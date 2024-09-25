@@ -1,5 +1,6 @@
 ---
 share: true
+title: Project 1, English
 ---
 
 # ---WARNING---
@@ -86,7 +87,7 @@ Should look like the interior of a mausoleum.
 
 The floor is currently 9 (width) x 3 (height). I would like to make this taller -- 5 height, which means the tiles might need to be smaller or of a different perspective.
 
-![](Attachments/project_1_en-20240925092932621.webp).
+![](Attachments/project_1_en-20240925092932621.webp)
 
 ![](Attachments/project_1_en-20240925092453205.webp)
 
