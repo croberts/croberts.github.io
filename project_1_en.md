@@ -31,7 +31,7 @@ A skeleton arm that bursts out of the ground.
 
 #### SLOW TURN
 
-Change direction while walking.
+Change direction while walking. The character's left leg and foot in the below image is too stiff.
 
 ![](Attachments/walk_turn.gif)
 
@@ -55,7 +55,7 @@ Arms are up and flailing.
 
 #### QUICK TURN
 
-Change direction while running.
+Change direction while running. The animation below could be better.
 
 ![](Attachments/run_turn.gif)
 
@@ -99,15 +99,23 @@ The floor is currently 9 tiles by 3 tiles. I would like to make this taller -- 5
 
 ### ICONS
 
+Icons are currently white with a transparent background but can be any color that matches the aesthetic.
+
 #### SCREAM
+
+Generated when a guest screams.
 
 ![](Attachments/project_1_en-20240925095521497.webp)
 
 #### RECALL ICON
 
+When clicked, brings back an undertaker.
+
 ![](Attachments/rotation.png)
 
 #### SKELLY ARM ICON
+
+ Used to deploy this undertaker.
 
 ![](Attachments/skeleton_arm-chip%201.png)
 
