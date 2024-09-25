@@ -3,7 +3,7 @@ layout: default
 share: true
 ---
   
-To export: copy in view mode.  
+To export: copy in view mode  
   
 ```dataview  
 TABLE WITHOUT ID  
