@@ -26,16 +26,13 @@ It is inspired by the real-life [Winchester Mystery House](https://winchestermys
 
 Undertakers are monsters you hire to work at the Nausoleum. The player has a list of undertakers on the left side of the screen. Undertakers are drag-and-drop, and come to life on drop. Most of them are not human, but some form of monster.
 
-<ul>
-![](Attachments/skelly_arm.png)
+![](skelly_arm.png)
 
 ![](Attachments/SparklyVampire.png)
 
 ![](Attachments/spider_sisters.png)
 
 ![](Attachments/therewolf.png)
-
-</li>
 
 ## GUESTS
 
