@@ -1,11 +1,11 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import 'jekyll-theme-dinky';
 
 img {
-  max-width: 600px;
-  max-height: 200px;
+  max-width: 100% !important;
+  max-height: 350px !important;
   display: inline-block;
 }
 
