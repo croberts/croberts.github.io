@@ -15,7 +15,7 @@ The main inspiration for the game is the real-life [Winchester Mystery House](ht
 
 # UNDERTAKERS
 
-Undertakers are monsters you hire to work at the Nausoleum. The player has a list of undertakers on the left side of the screen. Undertakers are drag-and-drop, and come to life on drop. Most of them are horror fantasy monsters.
+Undertakers are horror / fantasy **monsters** you hire to work at the Nausoleum. The player has a list of undertakers on the left side of the screen. Undertakers are drag-and-drop, and come to life on drop.
 
 ![](Attachments/skelly_arm.png)
 
@@ -37,16 +37,15 @@ Guests are people from the outside world who have decided to enter the Nausoleum
 
 # STYLE GUIDELINES
 
-## AESTHETIC/ Mood
+## AESTHETIC / MOOD
 
 ![](Attachments/bj.gif)
 
 ## REALISTIC PROPORTIONS
 
-Every guest's body, limbs, and facial features follow natural human proportions. 
+Every guest's body, limbs, and facial features follow natural human proportions.
 
 All characters should look grounded, as if they could exist in the real world, even within a stylized context.
-
 
 ## CARTOON HORROR
 
