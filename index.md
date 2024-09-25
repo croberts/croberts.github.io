@@ -11,9 +11,9 @@ share: true
   
 ## ENGLISH  
   
-* [Style Guide](./style_guide.md#) (WORK IN PROGRESS)  
+* [Style Guide](style_guide.md) (WORK IN PROGRESS)  
   
-* [Project 1 - October 2024](./project_1_en.md#) (WORK IN PROGRESS)  
+* [Project 1 - October 2024](project_1_en.md) (WORK IN PROGRESS)  
   
 ## CHINESE  
   
@@ -23,6 +23,10 @@ share: true
   
 ## SCREENSHOTS  
   
-[Screenshots](./screenshots.md#)  
+[style_guide](style_guide.md)  
+  
+[screenshots](screenshots.md)  
+  
+[2D Pipeline](2D%20Pipeline.md)  
   
 ## GAME CONCEPTS  
