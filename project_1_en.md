@@ -65,17 +65,11 @@ Eerie Atmosphere: The use of mist, dark forests, or ruins in the environment sug
 ## IMAGE SIZES
 
 | | width | height |
-
 | ------------ | ----- | ------ |
-
 | viewport | 1920 | 1080 |
-
 | environment | 1920 | 1080 |
-
 | UI - sidebar | 256 | 980 |
-
 | UI - icons | 50 | 50 |
-
 | guests | 300 | 900 |
 
 ## FORMAT
@@ -103,6 +97,7 @@ A skeleton arm that bursts out of the ground.
 ### MAINSTREAM MARK
 
 #### HAPPY STRUT
+
 ![](strut_1.gif)
 
 ![](strut_2.gif)
@@ -116,12 +111,12 @@ Change direction while walking.
 #### RUNNING AND SCREAMING
 
 Arms are up and flailing.
+
 ![](rs_1.gif)
 
 ![](rs_2.gif)
 
 ![](rs_3.gif)
-
 
 #### QUICK TURN
 
@@ -148,6 +143,7 @@ Should look like the interior of a mausoleum.
 - Open to change angle / perspective.
 
 ### ENTER/EXIT DOOR
+
 ![](door_a%201.png)
 
 ## UI
@@ -160,8 +156,8 @@ Should look like the interior of a mausoleum.
 
 #### RECALL ICON
 
-
 ![](rotation.png)
+
 #### SKELLY ARM ICON
 
 ![](skeleton_arm-chip%201.png)
@@ -186,5 +182,4 @@ TABLE WITHOUT ID
 	priority as milestone
 FROM "Nausoleum/Docs/Art/Deliverables Data"
 sort priority asc, type asc, subject asc
-
 ```
