@@ -16,7 +16,7 @@
     <div class="wrapper">
       <header>
       <center>
-        <h1>{{ site.title }}</h1>
+        <h1></h1>
 
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
@@ -34,6 +34,11 @@
 
 
       </section>
+      <footer>
+        {% if site.github.is_project_page %}
+        <p>{{ site.title }}</p>
+        {% endif %}
+      </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
