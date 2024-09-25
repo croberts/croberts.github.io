@@ -84,13 +84,13 @@ Export in both .psd and .png
 
 An average American teenager dressed in street clothes.
 
-![image](mark.png)
+![image](Attachments/mark.png)
 
 ### SKELLY ARM
 
 A skeleton arm that bursts out of the ground.
 
-![](skeleton_arm.png)
+![](Attachments/skeleton_arm.png)
 
 ## ANIMATIONS
 
@@ -98,31 +98,31 @@ A skeleton arm that bursts out of the ground.
 
 #### HAPPY STRUT
 
-![](strut_1.gif)
+![](Attachments/strut_1.gif)
 
-![](strut_2.gif)
+![](Attachments/strut_2.gif)
 
 #### SLOW TURN
 
 Change direction while walking.
 
-![](walk_turn.gif)
+![](Attachments/walk_turn.gif)
 
 #### RUNNING AND SCREAMING
 
 Arms are up and flailing.
 
-![](rs_1.gif)
+![](Attachments/rs_1.gif)
 
-![](rs_2.gif)
+![](Attachments/rs_2.gif)
 
-![](rs_3.gif)
+![](Attachments/rs_3.gif)
 
 #### QUICK TURN
 
 Change direction while running.
 
-![](run_turn.gif)
+![](Attachments/run_turn.gif)
 
 ### SKELLY ARM
 
@@ -130,7 +130,7 @@ Change direction while running.
 
 - The arm should start out buried under a pile of dirt, and pop out of the ground.
 
-![](zombie_dead.gif)
+![](Attachments/zombie_dead.gif)
 
 ## ENVIRONMENTS
 
@@ -144,7 +144,7 @@ Should look like the interior of a mausoleum.
 
 ### ENTER/EXIT DOOR
 
-![](door_a%201.png)
+![](Attachments/door_a%201.png)
 
 ## UI
 
@@ -156,11 +156,11 @@ Should look like the interior of a mausoleum.
 
 #### RECALL ICON
 
-![](rotation.png)
+![](Attachments/rotation.png)
 
 #### SKELLY ARM ICON
 
-![](skeleton_arm-chip%201.png)
+![](Attachments/skeleton_arm-chip%201.png)
 
 # MILESTONE DATES
 
