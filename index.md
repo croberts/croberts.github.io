@@ -5,9 +5,9 @@ share: true
 
 # ENGLISH
 
-[Style Guide](style_guide)
+* [Style Guide](style_guide)
 
-[First Project](project_1_en)
+* [First Project](project_1_en)
 
 # CHINESE
 
