@@ -13,7 +13,7 @@ An average American teenager dressed in street clothes.
 
 ![image](Attachments/mark.png)
 
-### SKELLY ARM
+### SKELETON ARM
 
 A skeleton arm that bursts out of the ground.
 
@@ -31,7 +31,7 @@ A skeleton arm that bursts out of the ground.
 
 #### SLOW TURN
 
-Change direction while walking. The character's left leg and foot in the below image is too stiff.
+Change direction while walking. The character's left leg and foot in the below animation is too stiff.
 
 ![](Attachments/walk_turn.gif)
 
@@ -55,7 +55,7 @@ Arms are up and flailing.
 
 #### QUICK TURN
 
-Change direction while running. The animation below could be better.
+Change direction while running. The animation below is not great, but it is the general idea.
 
 ![](Attachments/run_turn.gif)
 
@@ -95,17 +95,19 @@ The floor is currently 9 tiles by 3 tiles. I would like to make this taller -- 5
 
 ## UI
 
-### SIDEBAR
+- Simple
+- Easy to read
+- Icons are currently white with a transparent background
 
-### ICONS
-
-Icons are currently white with a transparent background but can be any color that matches the aesthetic.
+### GAME WORLD
 
 #### SCREAM
 
-Generated when a guest screams.
+Generated when a guest screams. Floats around the level until the player clicks it.
 
 ![](Attachments/project_1_en-20240925095521497.webp)
+
+### SIDEBAR
 
 #### RECALL ICON
 
@@ -113,9 +115,9 @@ When clicked, brings back an undertaker.
 
 ![](Attachments/rotation.png)
 
-#### SKELLY ARM ICON
+#### SKELETON ARM ICON
 
- Used to deploy this undertaker.
+ Used to deploy this Undertaker.
 
 ![](Attachments/skeleton_arm-chip%201.png)
 
