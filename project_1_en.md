@@ -2,9 +2,9 @@
 share: true
 ---
 
-# WARNING
+# ---WARNING---
 
-This is not finished yet.
+**This is not finished yet.**
 
 Last updated: September 25, 2024
 
@@ -231,14 +231,12 @@ The floor is currently 9 (width) x 3 (height). I would like to make this taller 
 |Mainstream Mark|Coloring and Shading|png and psd|4|
 |Skelly Arm|Coloring and Shading|png and psd|4|
 |Tile|Coloring and Shading|png and psd|4|
-|Mainstream Mark|Animation - Calm and Walking|png sprite sheet|5|
-|Mainstream Mark|Animation - Change direction running|png sprite sheet|5|
-|Mainstream Mark|Animation - Change direction walking|png sprite sheet|5|
-|Skelly Arm|Animation - Ground Pop|png sprite sheet|5|
-|Skelly Arm|Animation - OK Sign|png sprite sheet|5|
-|Mainstream Mark|Animation - Running and Screaming|png sprite sheet|5|
-|Skelly Arm|Animation - Thumbs Up|png sprite sheet|5|
-|Mainstream Mark|Animation - Vomit|png sprite sheet|5|
+|Mainstream Mark - Calm and Walking|Animation|png sprite sheet|5|
+|Mainstream Mark - Change direction running|Animation|png sprite sheet|5|
+|Mainstream Mark - Change direction walking|Animation|png sprite sheet|5|
+|Mainstream Mark - Running and Screaming|Animation|png sprite sheet|5|
+|Skelly Arm - Ground Pop|Animation|png sprite sheet|5|
+|Skelly Arm - Thumbs Up|Animation|png sprite sheet|5|
 |User Interface - Sidebar|Concept Art|png and psd|6|
 |User Interface - Skelly Arm|Icon|png and psd|6|
 |User Interface - Undo Button|Icon|png and psd|6|
