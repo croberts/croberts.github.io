@@ -2,7 +2,6 @@
 share: true
 ---
 
-> [!NOTE]
 > This is not finished yet.
 > Last updated: September 25, 2024
 
