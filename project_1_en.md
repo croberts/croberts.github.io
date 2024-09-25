@@ -96,39 +96,38 @@ An average American teenager dressed in street clothes.
 
 A skeleton arm that bursts out of the ground.
 
-  ![/Users/llewellyn/code/croberts.github.io/skeleton_arm.png](file:///Users/llewellyn/code/croberts.github.io/skeleton_arm.png)
+![](skeleton_arm.png)
 
 ## ANIMATIONS
 
 ### MAINSTREAM MARK
 
 #### HAPPY STRUT
+![](strut_1.gif)
 
-  ![/Users/llewellyn/code/croberts.github.io/strut_1.gif](file:///Users/llewellyn/code/croberts.github.io/strut_1.gif)
-
-  ![/Users/llewellyn/code/croberts.github.io/strut_2.gif](file:///Users/llewellyn/code/croberts.github.io/strut_2.gif)
+![](strut_2.gif)
 
 #### SLOW TURN
 
 Change direction while walking.
 
-![/Users/llewellyn/code/croberts.github.io/walk_turn.gif](file:///Users/llewellyn/code/croberts.github.io/walk_turn.gif)
+![](walk_turn.gif)
 
 #### RUNNING AND SCREAMING
 
 Arms are up and flailing.
+![](rs_1.gif)
 
-![/Users/llewellyn/code/croberts.github.io/rs_1.gif](file:///Users/llewellyn/code/croberts.github.io/rs_1.gif)
+![](rs_2.gif)
 
-  ![/Users/llewellyn/code/croberts.github.io/rs_2.gif](file:///Users/llewellyn/code/croberts.github.io/rs_2.gif)
+![](rs_3.gif)
 
-![/Users/llewellyn/code/croberts.github.io/rs_3.gif](file:///Users/llewellyn/code/croberts.github.io/rs_3.gif)
 
 #### QUICK TURN
 
 Change direction while running.
 
-![/Users/llewellyn/code/croberts.github.io/run_turn.gif](file:///Users/llewellyn/code/croberts.github.io/run_turn.gif)
+![](run_turn.gif)
 
 ### SKELLY ARM
 
@@ -136,7 +135,7 @@ Change direction while running.
 
 - The arm should start out buried under a pile of dirt, and pop out of the ground.
 
-  ![/Users/llewellyn/code/croberts.github.io/zombie_dead.gif](file:///Users/llewellyn/code/croberts.github.io/zombie_dead.gif)
+![](zombie_dead.gif)
 
 ## ENVIRONMENTS
 
@@ -149,8 +148,7 @@ Should look like the interior of a mausoleum.
 - Open to change angle / perspective.
 
 ### ENTER/EXIT DOOR
-
-  ![/Users/llewellyn/code/croberts.github.io/door_a.png](file:///Users/llewellyn/code/croberts.github.io/door_a.png)
+![](door_a%201.png)
 
 ## UI
 
@@ -162,11 +160,11 @@ Should look like the interior of a mausoleum.
 
 #### RECALL ICON
 
-  ![/Users/llewellyn/code/croberts.github.io/rotation.png](file:///Users/llewellyn/code/croberts.github.io/rotation.png)
 
+![](rotation.png)
 #### SKELLY ARM ICON
 
-![/Users/llewellyn/code/croberts.github.io/skeleton_arm-chip.png](file:///Users/llewellyn/code/croberts.github.io/skeleton_arm-chip.png)
+![](skeleton_arm-chip%201.png)
 
 # MILESTONE DATES
 
