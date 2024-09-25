@@ -2,9 +2,9 @@
 share: true
 ---
 
-> [!WARNING]
-> This is not finished yet.
-> Last updated: September 25, 2024
+# WARNING
+This is not finished yet.
+Last updated: September 25, 2024
 
 # ABOUT THE GAME
 
@@ -166,7 +166,7 @@ Should look like the interior of a mausoleum.
 
 ![](Attachments/skeleton_arm-chip%201.png)
 
-# MILESTONE DATES
+# MILESTONES
 
 | milestone | due   |
 | --------- | ----- |
@@ -177,6 +177,8 @@ Should look like the interior of a mausoleum.
 | 5         |       |
 | 6         |       |
 | 7         |       |
+
+# DELIVERABLES
 
 |subject|type|format|milestone|
 |---|---|---|---|
