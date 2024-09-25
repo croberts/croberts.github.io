@@ -11,16 +11,16 @@ share: true
   
 ## ENGLISH  
   
-* [Style Guide](style_guide)  
+* [Style Guide](./style_guide.md#)  
   
-* [Project 1 - October 2024](project_1_en)  
+* [Project 1 - October 2024](./project_1_en.md#)  
   
 ## CHINESE  
   
 # GAME DOCUMENTATION  
   
-* [[Nausoleum Overview|Nausoleum Overview]]  
-  
 ## SCREENSHOTS  
+  
+* [[./Nausoleum Overview|Nausoleum Overview]]  
   
 ## GAME CONCEPTS  
