@@ -9,7 +9,7 @@ layout: default
   
 ### MAINSTREAM MARK  
   
-An average American teenager dressed in street clothes.  
+An average American teenager dressed in street clothes. Should have three different outfits and hairstyles. <br>  
   
 ![image](Attachments/mark.png)  
   
@@ -127,15 +127,15 @@ When clicked, brings back an undertaker. <br>
   
 # MILESTONES  
   
-| milestone | due   |  
-| --------- | ----- |  
-| 1         | 10/16 |  
-| 2         | 10/31 |  
-| 3         |       |  
-| 4         |       |  
-| 5         |       |  
-| 6         |       |  
-| 7         |       |  
+| milestone | due        |  
+| --------- | ---------- |  
+| 1         | October 16 |  
+| 2         | October 31 |  
+| 3         |            |  
+| 4         |            |  
+| 5         |            |  
+| 6         |            |  
+| 7         |            |  
   
 # DELIVERABLES  
   
