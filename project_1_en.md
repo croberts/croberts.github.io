@@ -9,7 +9,7 @@ layout: default
   
 ### MAINSTREAM MARK  
   
-An average American teenager dressed in street clothes. Should have three different outfits and hairstyles. <br>  
+An average American teenager dressed in street clothes. Should have three different outfits and hairstyles.  
   
 ![image](Attachments/mark.png)  
   
@@ -37,7 +37,7 @@ Change direction while walking. The character's left leg and foot in the below a
   
 #### RUNNING AND SCREAMING  
   
-Arms are up and flailing. <br>  
+Arms are up and flailing. This should probably be split in half. The first half is starting to run while screaming, and the end is running while not screaming.  
   
 ![](Attachments/rs_1.gif)  
   
@@ -113,29 +113,28 @@ Generated when a guest screams. Floats around the level until the player clicks 
   
 ![](Attachments/project_1_en-20240925210914455.webp)  
   
-#### RECALL ICON  
-  
-When clicked, brings back an undertaker. <br>  
-  
-![](Attachments/rotation.png)  
-  
 #### SKELETON ARM ICON  
   
- Used to deploy this Undertaker. <br>  
+Dragging and dropping the skeleton arm icon onto a tile deploys the skeleton arm.  
   
 ![](Attachments/skeleton_arm-chip%201.png)  
   
+#### RECALL ICON  
+  
+Clicking the recall icon removes the undertaker (in this case the skeleton arm) from the game world.  
+  
+![](Attachments/rotation.png)  
+  
 # MILESTONES  
   
-| milestone | due        |  
-| --------- | ---------- |  
-| 1         | October 16 |  
-| 2         | October 31 |  
-| 3         |            |  
-| 4         |            |  
-| 5         |            |  
-| 6         |            |  
-| 7         |            |  
+| milestone | due         |  
+| --------- | ----------- |  
+| 1         | October 14  |  
+| 2         | October 31  |  
+| 3         | November 14 |  
+| 4         | November 31 |  
+| 5         | December 14 |  
+| 6         | December 31 |  
   
 # DELIVERABLES  
   
