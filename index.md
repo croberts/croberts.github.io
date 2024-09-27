@@ -9,15 +9,9 @@ share: true
   
 # ART DOCUMENTATION  
   
-## ENGLISH  
-  
-* [Style Guide](style_guide) (WORK IN PROGRESS)  
-* [Project 1](project_1_en) (WORK IN PROGRESS)  
+* [Style Guide](style_guide)  
+* [Project 1](project_1_en)  
 * [Project 2](project_2_en) (WORK IN PROGRESS)  
-  
-## CHINESE  
-  
-* (WORK IN PROGRESS)  
   
 # GAME DOCUMENTATION  
   
