@@ -12,7 +12,8 @@ share: true
 ## ENGLISH  
   
 * [Style Guide](style_guide) (WORK IN PROGRESS)  
-* [Project 1 - October 2024](project_1_en) (WORK IN PROGRESS)  
+* [Project 1](project_1_en) (WORK IN PROGRESS)  
+* [Project 2](project_2_en) (WORK IN PROGRESS)  
   
 ## CHINESE  
   
