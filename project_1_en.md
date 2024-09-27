@@ -145,3 +145,39 @@ Clicking the recall icon removes the undertaker (in this case the skeleton arm) 
 | 4         | coloring and shading                            |            |  
 | 5         | animations                                      |            |  
 | 6         | icons                                           |            |  
+  
+# DELIVERABLES (31)  
+  
+| subject                                    | type                       | milestone |  
+| ------------------------------------------ | -------------------------- | --------- |  
+| Door                                       | Concept Art                | 1         |  
+| Interior Background                        | Concept Art                | 1         |  
+| Mainstream Mark                            | Concept Art                | 1         |  
+| Skelly Arm                                 | Concept Art                | 1         |  
+| Tile                                       | Concept Art                | 1         |  
+| Mainstream Mark                            | Character Turnaround       | 2         |  
+| Skelly Arm                                 | Character Turnaround       | 2         |  
+| Door                                       | Rough Layout & Composition | 2         |  
+| Interior Background                        | Rough Layout & Composition | 2         |  
+| Tile                                       | Rough Layout & Composition | 2         |  
+| Door                                       | Clean Line Art             | 3         |  
+| Interior Background                        | Clean Line Art             | 3         |  
+| Mainstream Mark                            | Clean Line Art             | 3         |  
+| Skelly Arm                                 | Clean Line Art             | 3         |  
+| Tile                                       | Clean Line Art             | 3         |  
+| Door                                       | Coloring and Shading       | 4         |  
+| Interior Background                        | Coloring and Shading       | 4         |  
+| Mainstream Mark                            | Coloring and Shading       | 4         |  
+| Skelly Arm                                 | Coloring and Shading       | 4         |  
+| Tile                                       | Coloring and Shading       | 4         |  
+| Mainstream Mark - Calm and Walking         | Animation                  | 5         |  
+| Mainstream Mark - Change direction running | Animation                  | 5         |  
+| Mainstream Mark - Change direction walking | Animation                  | 5         |  
+| Mainstream Mark - Running and Screaming    | Animation                  | 5         |  
+| Skelly Arm - Ground Pop                    | Animation                  | 5         |  
+| Skelly Arm - Thumbs Up                     | Animation                  | 5         |  
+| User Interface - Expand Button             | Icon                       | 6         |  
+| User Interface - Scream                    | Icon                       | 6         |  
+| User Interface - Scream Counter            | Icon                       | 6         |  
+| User Interface - Skelly Arm                | Icon                       | 6         |  
+| User Interface - Undo Button               | Icon                       | 6         |  
