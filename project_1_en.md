@@ -3,7 +3,34 @@ share: true
 layout: default
 ---
   
-# FIRST LEVEL REQUIREMENTS  
+# MILESTONES  
+  
+| type       | num | items               | milestone | due    |  
+| ---------- | --- | ------------------- | --------- | ------ |  
+| static art | 2   | characters          | 1         | Oct 31 |  
+| static art | 5   | icons               | 1         | Oct 31 |  
+| static art | 2   | props               | 1         | Oct 31 |  
+| static art | 1   | scene               | 1         | Oct 31 |  
+| static art | 5   | icon                | 1         | Oct 31 |  
+| animation  | 6   | character animation | 2         | Nov 14 |  
+  
+# DELIVERABLES  
+  
+| type       | subject                  |  
+| ---------- | ------------------------ |  
+| static art | Door                     |  
+| static art | Interior Background      |  
+| static art | Mainstream Mark          |  
+| static art | Skelly Arm               |  
+| static art | Tile                     |  
+| animation  | Calm and Walking         |  
+| animation  | Change direction walking |  
+| animation  | Change direction running |  
+| animation  | Running and Screaming    |  
+| animation  | Skelly Arm - Ground Pop  |  
+| animation  | Skelly Arm - Thumbs Up   |  
+  
+# REQUIREMENTS  
   
 ## CONCEPT ART  
   
@@ -134,50 +161,3 @@ Dragging and dropping the skeleton arm icon onto a tile deploys the skeleton arm
 Clicking the recall icon removes the undertaker (in this case the skeleton arm) from the game world.  
   
 ![](Attachments/rotation.png)  
-  
-# MILESTONES  
-  
-| milestone | type                                            | due        |  
-| --------- | ----------------------------------------------- | ---------- |  
-| 1         | concept art                                     | October 31 |  
-| 2         | environment composition & character turnarounds |            |  
-| 3         | clean line art                                  |            |  
-| 4         | coloring and shading                            |            |  
-| 5         | animations                                      |            |  
-| 6         | icons                                           |            |  
-  
-# DELIVERABLES (31)  
-  
-| subject                                    | type                       | milestone |  
-| ------------------------------------------ | -------------------------- | --------- |  
-| Door                                       | Concept Art                | 1         |  
-| Interior Background                        | Concept Art                | 1         |  
-| Mainstream Mark                            | Concept Art                | 1         |  
-| Skelly Arm                                 | Concept Art                | 1         |  
-| Tile                                       | Concept Art                | 1         |  
-| Mainstream Mark                            | Character Turnaround       | 2         |  
-| Skelly Arm                                 | Character Turnaround       | 2         |  
-| Door                                       | Rough Layout & Composition | 2         |  
-| Interior Background                        | Rough Layout & Composition | 2         |  
-| Tile                                       | Rough Layout & Composition | 2         |  
-| Door                                       | Clean Line Art             | 3         |  
-| Interior Background                        | Clean Line Art             | 3         |  
-| Mainstream Mark                            | Clean Line Art             | 3         |  
-| Skelly Arm                                 | Clean Line Art             | 3         |  
-| Tile                                       | Clean Line Art             | 3         |  
-| Door                                       | Coloring and Shading       | 4         |  
-| Interior Background                        | Coloring and Shading       | 4         |  
-| Mainstream Mark                            | Coloring and Shading       | 4         |  
-| Skelly Arm                                 | Coloring and Shading       | 4         |  
-| Tile                                       | Coloring and Shading       | 4         |  
-| Mainstream Mark - Calm and Walking         | Animation                  | 5         |  
-| Mainstream Mark - Change direction running | Animation                  | 5         |  
-| Mainstream Mark - Change direction walking | Animation                  | 5         |  
-| Mainstream Mark - Running and Screaming    | Animation                  | 5         |  
-| Skelly Arm - Ground Pop                    | Animation                  | 5         |  
-| Skelly Arm - Thumbs Up                     | Animation                  | 5         |  
-| User Interface - Expand Button             | Icon                       | 6         |  
-| User Interface - Scream                    | Icon                       | 6         |  
-| User Interface - Scream Counter            | Icon                       | 6         |  
-| User Interface - Skelly Arm                | Icon                       | 6         |  
-| User Interface - Undo Button               | Icon                       | 6         |  
