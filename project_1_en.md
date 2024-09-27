@@ -5,14 +5,14 @@ layout: default
   
 # MILESTONES  
   
-| type       | num | items               | milestone | due    |  
-| ---------- | --- | ------------------- | --------- | ------ |  
-| static art | 2   | characters          | 1         | Oct 31 |  
-| static art | 5   | icons               | 1         | Oct 31 |  
-| static art | 2   | props               | 1         | Oct 31 |  
-| static art | 1   | scene               | 1         | Oct 31 |  
-| static art | 5   | icon                | 1         | Oct 31 |  
-| animation  | 6   | character animation | 2         | Nov 14 |  
+| type       | num | items               | due    |  
+| ---------- | --- | ------------------- | ------ |  
+| static art | 2   | characters          | Oct 31 |  
+| static art | 5   | icons               | Oct 31 |  
+| static art | 2   | props               | Oct 31 |  
+| static art | 1   | scene               | Oct 31 |  
+| static art | 5   | icon                | Oct 31 |  
+| animation  | 6   | character animation | Nov 14 |  
   
 # DELIVERABLES  
   
