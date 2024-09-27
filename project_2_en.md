@@ -5,6 +5,12 @@ layout: default
   
 # SECOND LEVEL REQUIREMENTS  
   
+# STEAM ART  
+  
+[Graphical Assets - Overview (Steamworks Documentation)](https://partner.steamgames.com/doc/store/assets)  
+  
+# ACHIEVEMENTS  
+  
 ## CONCEPT ART  
   
 ### AVERAGE ANNIE  
