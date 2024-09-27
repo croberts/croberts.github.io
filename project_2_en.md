@@ -59,4 +59,4 @@ layout: default
   
 * To navigate up and down levels.  
   
-## SIDE BAR  
+## SIDE BAR BACKGROUND  
