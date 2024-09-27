@@ -11,8 +11,9 @@ layout: default
   
 [Store Graphical Assets Details & Templates](https://partner.steamgames.com/doc/store/assets/standard) - These are the capsules and assets needed when constructing your Steam store page.  
   
-| **Header Capsule**   | Required | 920px x 430px  <br>Just your game logo and artwork [See details](https://partner.steamgames.com/doc/store/assets/standard#header_capsule)                   |  
+|                      |          |                                                                                                                                                             |  
 | -------------------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |  
+| Header Capsule       | Required | 920px x 430px  <br>Just your game logo and artwork [See details](https://partner.steamgames.com/doc/store/assets/standard#header_capsule)                   |  
 | **Small Capsule**    | Required | 462px x 174px  <br>Just your game logo and artwork [See details](https://partner.steamgames.com/doc/store/assets/standard#small_capsule)                    |  
 | **Main Capsule**     | Required | 1232px x 706px  <br>Just your game logo and artwork [See details](https://partner.steamgames.com/doc/store/assets/standard#main_capsule)                    |  
 | **Vertical Capsule** | Required | 748px x 896px  <br>Just your game logo and artwork [See details](https://partner.steamgames.com/doc/store/assets/standard#hero_capsule)                     |  
