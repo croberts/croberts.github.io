@@ -12,7 +12,7 @@ share: true
 * [Style Guide](style_guide)  
 * [Project 1](project_1_en)  
 * [Project 2](project_2_en)  
-* [Project 3](Project%203)  
+* [Project 3](project_3_en)  
   
 # GAME DOCUMENTATION  
   
